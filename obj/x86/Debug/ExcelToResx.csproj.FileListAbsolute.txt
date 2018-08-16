@@ -1,0 +1,3 @@
+D:\搜康网络\中国码农-GitHub\ExcelToResx\ExcelToResx\bin\Debug\WindowsFormsApplication1.exe.config
+D:\搜康网络\中国码农-GitHub\ExcelToResx\ExcelToResx\obj\x86\Debug\WindowsFormsApplication1.exe
+D:\搜康网络\中国码农-GitHub\ExcelToResx\ExcelToResx\obj\x86\Debug\WindowsFormsApplication1.pdb
